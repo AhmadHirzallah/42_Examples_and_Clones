@@ -1,0 +1,10 @@
+*/*.o
+*/*.a
+obj
+push_swap
+checker
+checker_linux
+push_swap_tester
+push_swap_tester_1
+log_error
+.vscode
