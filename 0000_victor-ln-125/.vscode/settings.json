@@ -1,0 +1,11 @@
+{
+	"files.associations": {
+		"bit": "c",
+		"concepts": "c",
+		"cstdio": "c",
+		"type_traits": "c",
+		"initializer_list": "c",
+		"new": "c",
+		"typeinfo": "c"
+	}
+}
